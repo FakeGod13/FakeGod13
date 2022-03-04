@@ -2,102 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/posts/first-blog/</loc>
+    <loc>https://fakegod13.github.io/FakeGod13/posts/first-blog/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
-    <lastmod>2022-03-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://examplesite.com/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://examplesite.com/categories/"
-                />
-  </url><url>
-    <loc>https://examplesite.com/categories/hugo/</loc>
-    <lastmod>2022-03-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/categories/papermod/</loc>
-    <lastmod>2022-03-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/posts/</loc>
-    <lastmod>2022-03-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://fakegod13.github.io/FakeGod13/categories/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/en/"
+                href="https://fakegod13.github.io/FakeGod13/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.com/"
+                href="https://fakegod13.github.io/FakeGod13/categories/"
                 />
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://fakegod13.github.io/FakeGod13/categories/hugo/</loc>
+    <lastmod>2022-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fakegod13.github.io/FakeGod13/categories/papermod/</loc>
+    <lastmod>2022-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fakegod13.github.io/FakeGod13/posts/</loc>
+    <lastmod>2022-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fakegod13.github.io/FakeGod13/</loc>
+    <lastmod>2022-03-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/en/tags/"
+                href="https://fakegod13.github.io/FakeGod13/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.com/tags/"
+                href="https://fakegod13.github.io/FakeGod13/"
                 />
   </url><url>
-    <loc>https://examplesite.com/about_me/</loc>
+    <loc>https://fakegod13.github.io/FakeGod13/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/en/about_me/"
+                href="https://fakegod13.github.io/FakeGod13/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.com/about_me/"
+                href="https://fakegod13.github.io/FakeGod13/tags/"
                 />
   </url><url>
-    <loc>https://examplesite.com/friends_link/</loc>
+    <loc>https://fakegod13.github.io/FakeGod13/about_me/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/en/friends_link/"
+                href="https://fakegod13.github.io/FakeGod13/en/about_me/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.com/friends_link/"
+                href="https://fakegod13.github.io/FakeGod13/about_me/"
                 />
   </url><url>
-    <loc>https://examplesite.com/search/</loc>
+    <loc>https://fakegod13.github.io/FakeGod13/friends_link/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/en/search/"
+                href="https://fakegod13.github.io/FakeGod13/en/friends_link/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.com/search/"
+                href="https://fakegod13.github.io/FakeGod13/friends_link/"
                 />
   </url><url>
-    <loc>https://examplesite.com/archives/</loc>
+    <loc>https://fakegod13.github.io/FakeGod13/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/en/archives/"
+                href="https://fakegod13.github.io/FakeGod13/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.com/archives/"
+                href="https://fakegod13.github.io/FakeGod13/search/"
+                />
+  </url><url>
+    <loc>https://fakegod13.github.io/FakeGod13/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fakegod13.github.io/FakeGod13/en/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://fakegod13.github.io/FakeGod13/archives/"
                 />
   </url>
 </urlset>

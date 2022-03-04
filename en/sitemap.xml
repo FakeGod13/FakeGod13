@@ -2,88 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/en/archives/</loc>
+    <loc>https://fakegod13.github.io/FakeGod13/en/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.com/archives/"
+                href="https://fakegod13.github.io/FakeGod13/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/en/archives/"
+                href="https://fakegod13.github.io/FakeGod13/en/archives/"
                 />
   </url><url>
-    <loc>https://examplesite.com/en/categories/</loc>
+    <loc>https://fakegod13.github.io/FakeGod13/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.com/categories/"
+                href="https://fakegod13.github.io/FakeGod13/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/en/categories/"
+                href="https://fakegod13.github.io/FakeGod13/en/categories/"
                 />
   </url><url>
-    <loc>https://examplesite.com/en/friends_link/</loc>
+    <loc>https://fakegod13.github.io/FakeGod13/en/friends_link/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.com/friends_link/"
+                href="https://fakegod13.github.io/FakeGod13/friends_link/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/en/friends_link/"
+                href="https://fakegod13.github.io/FakeGod13/en/friends_link/"
                 />
   </url><url>
-    <loc>https://examplesite.com/en/search/</loc>
+    <loc>https://fakegod13.github.io/FakeGod13/en/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.com/search/"
+                href="https://fakegod13.github.io/FakeGod13/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/en/search/"
+                href="https://fakegod13.github.io/FakeGod13/en/search/"
                 />
   </url><url>
-    <loc>https://examplesite.com/en/</loc>
+    <loc>https://fakegod13.github.io/FakeGod13/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.com/"
+                href="https://fakegod13.github.io/FakeGod13/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/en/"
+                href="https://fakegod13.github.io/FakeGod13/en/"
                 />
   </url><url>
-    <loc>https://examplesite.com/en/tags/</loc>
+    <loc>https://fakegod13.github.io/FakeGod13/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.com/tags/"
+                href="https://fakegod13.github.io/FakeGod13/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/en/tags/"
+                href="https://fakegod13.github.io/FakeGod13/en/tags/"
                 />
   </url><url>
-    <loc>https://examplesite.com/en/about_me/</loc>
+    <loc>https://fakegod13.github.io/FakeGod13/en/about_me/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.com/about_me/"
+                href="https://fakegod13.github.io/FakeGod13/about_me/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/en/about_me/"
+                href="https://fakegod13.github.io/FakeGod13/en/about_me/"
                 />
   </url>
 </urlset>
